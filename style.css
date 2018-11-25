@@ -1,0 +1,61 @@
+body {
+    background-color: #86e0ed
+        
+        
+}
+.header1
+{
+    text-align: center;
+    color: #0309cd
+        
+}
+.bosh {
+    
+    font-weight:bold;
+    font-size: 25px;
+    text-align: center
+}
+
+.rang {
+    color: #ec1c1c;
+    text-align: center ;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.yana
+{
+    text-align: center;
+    color: #0309cd;
+    font-weight:bold;
+    font-size: 20px;
+}
+.hobby
+{
+    color: #ec1c1c;
+    text-align: center ;
+    font-weight: bold;
+    font-size: 18px;
+}
+.movie
+{
+    text-align:center;
+    color: #0309cd;
+    font-weight:bold;
+    font-size: 20px;
+}
+.zar
+{
+    text-align:center;
+    color: #0309cd;
+    font-weight:bold;
+    font-size: 25px;
+    
+ 
+}
+.mtext{
+     color: #ec1c1c;
+    font-weight:bold;
+    font-size: 20px;
+    margin-left: 5px;
+}
